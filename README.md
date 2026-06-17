@@ -50,6 +50,7 @@ The platform is designed to be highly secure, supporting optional **End-to-End E
 
 ## 🏗️ Architecture & Tech Stack
 
+![System Architecture](./frontend/public/assests/system_architecture.png)
 ### Backend
 - **Core Framework**: Go (Golang) using the [Gin](https://gin-gonic.com/) web framework.
 - **Database Layer**: PostgreSQL accessed via [GORM](https://gorm.io/).
